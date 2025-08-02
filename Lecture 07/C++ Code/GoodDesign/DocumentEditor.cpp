@@ -3,6 +3,8 @@
 #include <string>
 #include<fstream>
 
+//Due to open close principle we have to make good design of Google Docs
+
 using namespace std;
 
 // Abstraction for document elements
