@@ -1,3 +1,5 @@
+// Singeleton Design- create a private constructor
+// create a static instace(getinstance) that return same instance every time
 #include<iostream>
 
 using namespace std;
